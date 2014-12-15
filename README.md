@@ -1,4 +1,6 @@
-appengine-skeleton
+
 =============================
 
-This is a generated application from the appengine-skeleton archetype.
+블로그주소  : http://adunhansa.tistory.com/195
+
+적용하실 때 아이디 바꿔주셔야 됩니다 :) 
