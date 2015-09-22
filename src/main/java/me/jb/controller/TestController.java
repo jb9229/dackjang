@@ -1,14 +1,14 @@
-package com.example.controller;
+package me.jb.controller;
 
 import java.util.List;
 
+import me.jb.domain.TestClass;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-import com.example.domain.TestClass;
-import com.example.repository.TestRespository;
+import me.jb.repository.TestRespository;
 
 @Controller
 public class TestController {

@@ -6,7 +6,7 @@
 	<persistence-unit name="MyUnit">
 		<provider>org.datanucleus.api.jpa.PersistenceProviderImpl</provider>
 		<properties>
-			<class>com.example.domain.TestClass</class>
+			<class>me.jb.repository.TestClass</class>
 			<property name="datanucleus.ConnectionURL" value="appengine" />
 			<property name="datanucleus.appengine.datastoreEnableXGTransactions" value="true" />
 			<property name="datanucleus.appengine.ignorableMetaDataBehavior" value="NONE" />

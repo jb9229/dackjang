@@ -1,9 +1,7 @@
-package com.example.repository;
+package me.jb.repository;
 
+import me.jb.domain.TestClass;
 import org.springframework.data.jpa.repository.JpaRepository;
-import org.springframework.stereotype.Repository;
-
-import com.example.domain.TestClass;
 
 import java.lang.Long;
 import java.util.List;

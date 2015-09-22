@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Dackjang:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="dackjang-1.02-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Dackjang:war exploded" />
+    </root>
+  </artifact>
+</component>

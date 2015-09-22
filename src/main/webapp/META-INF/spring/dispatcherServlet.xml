@@ -15,7 +15,7 @@
 		<property name="suffix" value=".jsp" />
 	</bean>
 	
-	<bean id="testController" class="com.example.controller.TestController">
-	</bean>
+	<bean id="testController" class="me.jb.controller.TestController"></bean>
+	<bean id="dackjangController" class="me.jb.controller.DackjangController"></bean>
 
 </beans>
